@@ -1,14 +1,14 @@
-### Algorithmic Trading Quantitative Analysis
+# Algorithmic Trading Quantitative Analysis
 
-#### Project Overview
+## Project Overview
 
 This project focuses on analyzing the stock performance of various companies within the AI industry. The goal is to identify investment opportunities by examining long-term growth potential and technological advancements in companies that are making significant impacts across different sectors of the AI industry.
 
-#### Files in the Repository
+## Files in the Repository
 
 -   **Algorithmic_Analysis_AI_Tech.ipynb**: A Jupyter notebook containing the code and markdown cells where the analysis is performed and documented.
 
-#### Technologies Used
+## Technologies Used
 
 -   **Python**: The main programming language used for analysis.
 -   **pandas**: A library for data manipulation and analysis.
@@ -16,7 +16,7 @@ This project focuses on analyzing the stock performance of various companies wit
 -   **Matplotlib**: A plotting library for creating static, interactive, and animated visualizations in Python.
 -   **yfinance**: A library to fetch historical market data from Yahoo Finance.
 
-#### Setup and Installation
+## Setup and Installation
 
 To run this project within a virtual environment, follow these steps:
 
@@ -40,7 +40,7 @@ To run this project within a virtual environment, follow these steps:
     pip install -r requirements.txt
     ```
 
-#### Running the Notebook
+## Running the Notebook
 
 To start the Jupyter Notebook:
 
@@ -50,13 +50,13 @@ jupyter notebook
 
 Navigate to the directory containing the notebook file `Algorithmic_Analysis_AI_Tech.ipynb` and open it.
 
-#### Notebook Structure
+## Notebook Structure
 
 -   **Stage 1: Background**: Discussion on the motivations for investing in AI companies and the strategy for selecting a diversified basket of stocks.
 -   **Stage 2: Fetch Stock Data for Multiple Companies**: Code to download historical stock data for selected AI companies.
 -   **Stage 3: Data Manipulation**: Analysis of the downloaded data, focusing on closing prices and other relevant financial metrics.
 
-#### Data Analysis
+## Data Analysis
 
 The data analysis is performed on stock data fetched for multiple AI companies, including NVIDIA, Tesla, and others. The analysis includes:
 
